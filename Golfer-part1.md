@@ -23,7 +23,7 @@ As we can see the flags for Data, Version , OS/ABI dont seem correct
 Next i tried the Classic `Strings` Command :
 
 `a4fTUH}yR{l
-`g_30Br`
+g_30Br`
 
 Ok , some very familiar characters pop up i can distinguish the **HTB{}** and it isnt hard to put together the **g0lf3r** part as well, so the first thing that popped into my mind was that maybe this was a reordering of the letters and with some trial and error i could brute force the flag 
 but nothing came out as the letters the were left off didn't make any word.
