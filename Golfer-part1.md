@@ -48,11 +48,19 @@ And then the program **exits**.
 After a few iterations of debugging trying to understand if anything happens from that *jmp* i decided to see what the code bellow the jmp does since its never executed.
 Using the right-click -> edit -> NOP instruction on the jmp instruction i patched the code like this.
 
+
 ![swappy-20231114_211835](https://github.com/gkonofaos/CTF_writeups/assets/112202449/a1e4c8fa-c880-41e0-89cd-4d28a6b6097d)
  
 
 Running it finally gave us the flag :
 
+<details>
+  <summary>Spoiler warning</summary>
+  
+ 
+
 ![swappy-20231114_212024](https://github.com/gkonofaos/CTF_writeups/assets/112202449/12edd6af-a22f-4f7b-ac1b-45e40d97b3d3)
+  
+</details>
 
 
